@@ -1,0 +1,59 @@
+body {
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0
+}
+.MiddleNavbar .navbar-header .logoText h5 span {
+    color: #212223;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal
+}
+
+.MiddleNavbar .navbar-header .logoText h5 strong {
+    color: #212223;
+    font-weight: 600;
+    font-size: 23px;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal
+}
+
+.header-btn {
+    float: right;
+    visibility: hidden;
+}
+
+.MiddleNavbar .navbar-header .logoText h5 {
+    color: #f58634;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 15px;
+    font-family: Roboto, sans-serif;
+    line-height: 26px
+}
+
+.MiddleNavbar .navbar-brand {
+    height: inherit;
+    margin-left: 0!important;
+    padding: 17px 13px
+}
+
+.MiddleNavbar .navbar-header a.navbar-brand img {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 0
+}
+
+.MiddleNavbar .navbar-header .logoText {
+    display: inline-block
+}
+
+.MiddleNavbar .navbar-default {
+    background: #fff;
+    border: none;
+    margin-bottom: 0
+}
+
+header .MiddleNavbar .navbar-default {
+    border: none
+}
